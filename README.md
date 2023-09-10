@@ -4,7 +4,7 @@ CHIP8 emulator written in rust
 SDL2 installed on your machine
 **Keyboard Layout:**
 **Chip8 Keypad:**
-1	2	3	C
+1	2	3	C\n
 4	5	6	D
 7	8	9	E
 A	0	B	F
